@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+//confirmed by gogata258
+using System;
 
 namespace ConsoleApp1
 {
