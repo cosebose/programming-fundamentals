@@ -1,5 +1,5 @@
 # programming-fundamentals
-##*Programming Fundamentals Repository*
+## *Programming Fundamentals Repository*
 
 ---
 ### Problem 1 : Description
